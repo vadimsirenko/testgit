@@ -1,1 +1,2 @@
 Second file
+line from user2
