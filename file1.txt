@@ -1,3 +1,4 @@
 First file
 another line from user1
 очень важная строка
+line from add-feature1
