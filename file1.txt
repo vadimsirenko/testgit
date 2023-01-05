@@ -1,2 +1,2 @@
 First file
-line from user1
+another line from user1
