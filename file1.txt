@@ -1,1 +1,2 @@
 First file
+line from user1
